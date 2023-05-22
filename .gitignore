@@ -1,1 +1,3 @@
 resulting_files/
+__pycache__/
+*.log
